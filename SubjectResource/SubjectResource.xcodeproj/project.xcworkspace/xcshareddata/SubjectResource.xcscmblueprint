@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5528A4879FD14C243DB7CD934B65D3C066AA0AB0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5528A4879FD14C243DB7CD934B65D3C066AA0AB0" : 9223372036854775807,
+    "AD3AD43FE137E91D448531470911B61F3D03A0C1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "44E17166-4F8E-427D-A1F8-AE0FBF773892",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5528A4879FD14C243DB7CD934B65D3C066AA0AB0" : "%E9%A1%B9%E7%9B%AE%E6%94%AF%E6%8C%81\/",
+    "AD3AD43FE137E91D448531470911B61F3D03A0C1" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SubjectResource",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SubjectResource\/SubjectResource.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/githupchenqiang\/SubjectResource.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5528A4879FD14C243DB7CD934B65D3C066AA0AB0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/githupchenqiang\/CQAnimation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AD3AD43FE137E91D448531470911B61F3D03A0C1"
+    }
+  ]
+}
